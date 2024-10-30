@@ -3,7 +3,7 @@
 - 🔭 Atualmente estou à procura de estágios
 - 🌱 Atualmente estou estudando Engenharia de Software na UNINTER
 - 📫 Como entrar em contato comigo: (38) 997269688
-- 😄 Pronomes: Ele/Dele
+- 😄 Idade: 19
 
 
 <div>
