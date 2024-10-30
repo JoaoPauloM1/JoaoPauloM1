@@ -1,7 +1,7 @@
 # Olá, me chamo João Paulo Maciel Borges ! 
 ## Bem vindo ao meu perfil GitHub 👋
-- 🔭 Atualmente estou à procura de estágios.
-- 🌱 Atualmente estou estudando Engenharia de Software na UNINTER.
+- 🔭 Atualmente estou à...
+- 🌱 Atualmente estou estudando...
 - 📫 Como entrar em contato comigo: (38) 997269688
 - 😄 Pronomes: Ele/Dele
 
