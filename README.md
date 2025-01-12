@@ -17,7 +17,11 @@
 
 ## 📞 Let's connect  
 <div>
-<a href="https://instagram.com/joaopauloo.m" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="mailto:contato@joaopaulomacielborges@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/joão-paulo-maciel-" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/joaopauloo.m" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:contato@joaopaulomacielborges@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joão-paulo-maciel-" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+## 🌍 EN / PT-BR
+  - All of my projects are in English to align with global industry practices. I am also adaptable and open to adjusting my work style based on the needs of the company.
+  - Todos os meus projetos estão em inglês, pois quero estar alinhado às práticas do mercado global. Também sou flexível e posso ajustar meu estilo de trabalho conforme as necessidades da empresa.
