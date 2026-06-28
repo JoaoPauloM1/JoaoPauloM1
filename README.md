@@ -4,7 +4,7 @@
 - 🔭 Estou à procura de oportunidades!  
 - 🌱 Estudando Engenharia de Software na UNINTER  
 - 📫 Entre em contato comigo: +55 (38) 99726-9688  
-- 😄 19 anos 
+- 😄 20 anos 
 
 ## 🚀 Tecnologias  
 <div>
