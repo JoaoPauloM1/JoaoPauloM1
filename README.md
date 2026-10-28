@@ -4,7 +4,7 @@
 - 🔭 Estou à procura de oportunidades!  
 - 🌱 Estudando Engenharia de Software na UNINTER  
 - 📫 Entre em contato comigo: +55 (38) 99726-9688  
-- 😄 20 anos 
+- 😄 21 anos 
 
 ## 🚀 Tecnologias  
 <div>
@@ -21,7 +21,3 @@
   <a href="mailto:contato@joaopaulomacielborges@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joão-paulo-maciel-" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-## 🌍 PT-BR / EN
-  - Todos os meus projetos estão em português, mas sou flexível e posso ajustar meu estilo de trabalho conforme as necessidades da empresa.
-  - All of my projects are in Portuguese, but I am flexible and can adjust my work style according to the company’s needs.
